@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadash.api", "shadash.api\shadash.api.csproj", "{9C540833-9785-417F-95AB-42451ABA8DD6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadash.domain", "shadash.domain\shadash.domain.csproj", "{43C85A87-17EA-482D-AA82-5CDC293C5F8A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadash.ui", "shadash.ui\shadash.ui.csproj", "{3C0B59D4-1669-460E-8CFF-E139E22ECF9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shadash.host", "shadash.host\shadash.host.csproj", "{4C0E6BD2-8C88-47C0-AA86-95A7755CC698}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9C540833-9785-417F-95AB-42451ABA8DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C540833-9785-417F-95AB-42451ABA8DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C540833-9785-417F-95AB-42451ABA8DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C540833-9785-417F-95AB-42451ABA8DD6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{43C85A87-17EA-482D-AA82-5CDC293C5F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43C85A87-17EA-482D-AA82-5CDC293C5F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43C85A87-17EA-482D-AA82-5CDC293C5F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43C85A87-17EA-482D-AA82-5CDC293C5F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3C0B59D4-1669-460E-8CFF-E139E22ECF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3C0B59D4-1669-460E-8CFF-E139E22ECF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C0B59D4-1669-460E-8CFF-E139E22ECF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
