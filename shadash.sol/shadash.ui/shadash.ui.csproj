@@ -107,6 +107,8 @@
     <Content Include="static\Scripts\jquery-3.1.1.min.map">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Pages\test.cshtml" />
+    <Content Include="Pages\mon.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -159,9 +161,6 @@
     </Content>
     <Content Include="static\Content\bootstrap-theme.css.map">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Pages\mon.html">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="static\Scripts\angular-mocks.js">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
